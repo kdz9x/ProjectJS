@@ -1,0 +1,64 @@
+[ {
+    "name": "Coomber",
+    "category": "Lounge",
+    "collection": "Spring",
+    "color": "Yellow",
+    "rating": 4,
+    "price": 2600,
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-project-685a4.appspot.com/o/pic-1.png?alt=media&token=89201491-c516-405d-909e-00932c5ab773"
+    },
+    {
+    "name": "Keeve Set",
+    "category": "Table & Chairs",
+    "collection": "Spring",
+    "color": "Red",
+    "rating": 4,
+    "price": 590,
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-project-685a4.appspot.com/o/pic-2.png?alt=media&token=4fdcf005-c989-468d-ae78-bc6c3d396e45"
+    },
+    {
+    "name": "Nillè",
+    "category": "Armchairs",
+    "collection": "Summer",
+    "color": "Green",
+    "rating": 5,
+    "price": 950,
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-project-685a4.appspot.com/o/pic-3.png?alt=media&token=0d8b2658-fdd8-4168-a8ff-4afc74486ca7"
+    },
+    {
+    "name": "Blacko",
+    "category": "Sidetable",
+    "collection": "Summer",
+    "color": "Green",
+    "rating": 4,
+    "price": 90,
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-project-685a4.appspot.com/o/pic-4.png?alt=media&token=d0760daa-b5c6-4098-b735-07d26ff705e4"
+    },
+    {
+    "name": "Momo",
+    "category": "Shelves",
+    "collection": "Autumn",
+    "color": "Yellow",
+    "rating": 4,
+    "price": 890,
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-project-685a4.appspot.com/o/pic-5.png?alt=media&token=2ab1300d-68aa-410e-ba87-2e90bfc74559"
+    },
+    {
+    "name": "Penemilè",
+    "category": "Chair",
+    "collection": "Winter",
+    "color": "Blue",
+    "rating": 4,
+    "price": 120,
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-project-685a4.appspot.com/o/pic-6.png?alt=media&token=f52292db-dee9-4761-8545-f3d927d6660c"
+    },
+    {
+    "name": "Kappu",
+    "category": "Shelves",
+    "collection": "Winter",
+    "color": "Yellow",
+    "rating": 4,
+    "price": 420,
+    "image": "https://firebasestorage.googleapis.com/v0/b/my-project-685a4.appspot.com/o/pic-8.png?alt=media&token=cdeed458-2a07-40eb-933d-5809c91ce36f"
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {   "select":"Collection",
+        "option": [ "Spring","Summer","Autumn","Winter"]
+    }
+    ,
+    {   "select": "Color",
+        "option":["Red","Yellow","Green","Blue"]
+    }
+    ,
+    {   "select": "Category",
+        "option": ["Lounge","Table & Chairs","Armchairs","Sidetable","Shelves","Chair"]
+    }
+]
